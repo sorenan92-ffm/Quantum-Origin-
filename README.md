@@ -30,3 +30,4 @@ The model successfully predicts:
 | τ (vacuum) | 0.969818 | -- | Calibrated |
 
 ## 📁 Repository Structure
+https://doi.org/10.5281/zenodo.18508481
